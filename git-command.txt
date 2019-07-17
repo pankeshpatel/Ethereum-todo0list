@@ -1,0 +1,21 @@
+# Remove git directory, if exists
+rd .git /S/Q
+
+# Initialize git into your project repository
+git init
+
+# Add 
+git add .
+
+# Commit
+git commit -m <Commit Message> .
+
+# push to the repository on GitHub
+git  remote add origin <Git-URL>
+
+# Push your content to the GitHub Repo. 
+git push -u origin master
+
+
+Source:
+https://www.youtube.com/watch?v=OVL7R0eT8jw
