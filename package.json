@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ganache-cli": "^6.4.4",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "mocha": "^6.1.4",
     "node-gyp": "^5.0.0",
     "solc": "^0.4.25",
